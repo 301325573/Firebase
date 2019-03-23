@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="hintTask">Task</string>
+    <string name="hintName">Who</string>
+    <string name="hintDate">yyyy-mm-dd</string>
+    <string name="btnAddTask">Add Task</string>
+    <string name="enterNewName">Enter New Task</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+
+    <string-array name="schools">
+        <item>In progressing</item>
+        <item>Done</item>
+    </string-array>
+
+</resources>
